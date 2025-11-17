@@ -6,4 +6,4 @@ Each article includes:
 • A short introduction  
 • Structured sections with subtitles  
 • A complete body of text  
-• Key takeaways or a conclusion  
+• A conclusion  
