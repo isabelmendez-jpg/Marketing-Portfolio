@@ -1,6 +1,7 @@
 # Case Studies
 
 This folder contains short marketing case studies that demonstrate how I approach:
+
 • Strategy  
 • Content creation  
 • Creative operations  
